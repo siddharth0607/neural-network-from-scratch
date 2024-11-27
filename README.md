@@ -4,8 +4,8 @@ This project demonstrates building a simple neural network from scratch using **
 
 ## Features
 - **2-layer Neural Network**: Input Layer (784 neurons), hidden layer (10 neurons with ReLU), output layer (10 neurons with softmax).
-- **Training**: Implements forward propagtion, backpropagation, and gradient descent for optimization.
--  **Testing**: Randomly tests the model on samples from the NMIST dataset.
+- **Training**: Implements forward propagation, backpropagation, and gradient descent for optimization.
+-  **Testing**: Randomly tests the model on samples from the MNIST dataset.
 
 ## Requirements
 - Python 3.x
@@ -21,7 +21,7 @@ This project demonstrates building a simple neural network from scratch using **
 
 2. Install dependencies:
    ```bash
-      pip install -r requirements.txt
+   pip install -r requirements.txt
    
 3. Run the code:
    ```bash
